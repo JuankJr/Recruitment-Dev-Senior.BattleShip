@@ -6,3 +6,12 @@ C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Test\bin\Debug\Codific
 C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.csprojResolveAssemblyReference.cache
 C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.dll
 C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.pdb
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\bin\Debug\Codifico.Senior.Test.dll
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\bin\Debug\Codifico.Senior.Test.pdb
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\bin\Debug\Codifico.Senior.Core.dll
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\bin\Debug\Codifico.Senior.Core.pdb
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.csprojResolveAssemblyReference.cache
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.csproj.CoreCompileInputs.cache
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.dll
+C:\codifico\Recruitment-Dev-Senior.BattleShip\Codifico.Senior.Test\obj\Debug\Codifico.Senior.Test.pdb

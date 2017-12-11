@@ -1,0 +1,22 @@
+﻿.water {
+    border: 1px solid;
+    background-color: gray;
+    background-image: url('../images/oceano.jpg');
+}
+table {
+    width:300px;
+    height:300px;
+}
+.ship {
+    background-image:none;
+}
+.failShoot {
+    background-image: url('../images/fail.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+}
+.xploit {
+    background-image: url('../images/xploit.gif') !important;
+    background-size: contain;
+    background-repeat: no-repeat;
+}
