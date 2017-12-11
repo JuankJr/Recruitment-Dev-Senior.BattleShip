@@ -1,0 +1,5 @@
+C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Core\bin\Debug\Codifico.Senior.Core.dll
+C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Core\bin\Debug\Codifico.Senior.Core.pdb
+C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Core\obj\Debug\Codifico.Senior.Core.csprojResolveAssemblyReference.cache
+C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Core\obj\Debug\Codifico.Senior.Core.dll
+C:\codifico\Recruitment-Dev-Senior\Source\Codifico.Senior.Core\obj\Debug\Codifico.Senior.Core.pdb
